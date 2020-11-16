@@ -6,3 +6,6 @@
 ### Viikko 2
 * [Tehtävät 2-3](https://github.com/roloxi/ohtu-2020-viikko1)
 * [Tehtävät 4-12](https://github.com/roloxi/ohtu-2020-tehtavat/tree/main/viikko2/Verkkokauppa1)
+
+### Viikko 3
+* [Tehtävät 1-11](https://github.com/roloxi/ohtu-2020-tehtavat/tree/main/viikko3/)
