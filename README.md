@@ -9,3 +9,6 @@
 
 ### Viikko 3
 * [Tehtävät 1-11](https://github.com/roloxi/ohtu-2020-tehtavat/tree/main/viikko3/)
+
+### Viikko 4
+* [Tehtävät 1-6](https://github.com/roloxi/ohtu-2020-tehtavat/tree/main/viikko4/)
