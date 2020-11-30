@@ -12,3 +12,6 @@
 
 ### Viikko 4
 * [Tehtävät 1-6](https://github.com/roloxi/ohtu-2020-tehtavat/tree/main/viikko4/)
+
+### Viikko 5
+* [Tehtävät 1-5](https://github.com/roloxi/ohtu-2020-tehtavat/tree/main/viikko5/LaskinFX11)
