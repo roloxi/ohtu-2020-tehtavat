@@ -15,3 +15,6 @@
 
 ### Viikko 5
 * [Tehtävät 1-5](https://github.com/roloxi/ohtu-2020-tehtavat/tree/main/viikko5/LaskinFX11)
+
+### Viikko 6
+* [Tehtävät 1-5](https://github.com/roloxi/ohtu-2020-tehtavat/tree/main/viikko6/QueryLanguage)
