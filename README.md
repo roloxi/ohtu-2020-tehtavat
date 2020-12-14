@@ -18,3 +18,6 @@
 
 ### Viikko 6
 * [Tehtävät 1-5](https://github.com/roloxi/ohtu-2020-tehtavat/tree/main/viikko6/QueryLanguage)
+
+### Viikko 7
+* [Tehtävät 3-4](https://github.com/roloxi/ohtu-2020-tehtavat/tree/main/viikko7/KiviPaperiSakset)
